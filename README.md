@@ -64,3 +64,5 @@ To start mysql now and restart at login:
 
 <img width="1010" alt="Screenshot 2023-02-28 at 1 27 29 AM" src="https://user-images.githubusercontent.com/43849911/221669516-0133e0d7-21f3-4975-b994-0c73c57266cd.png">
 
+<img width="880" alt="Screenshot 2023-02-28 at 1 28 38 AM" src="https://user-images.githubusercontent.com/43849911/221669807-3140855c-58f7-4496-99f5-bc11a4bc61df.png">
+
