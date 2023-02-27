@@ -72,4 +72,17 @@ To start mysql now and restart at login:
 
 <img width="981" alt="Screenshot 2023-02-28 at 1 41 00 AM" src="https://user-images.githubusercontent.com/43849911/221672789-aa1e0cac-56fc-4fec-93ee-99c045bdbb32.png">
 
+<img width="567" alt="Screenshot 2023-02-28 at 1 44 54 AM" src="https://user-images.githubusercontent.com/43849911/221673623-d9704e17-b785-44f3-8510-da94290290f4.png">
+
+<img width="874" alt="Screenshot 2023-02-28 at 1 45 42 AM" src="https://user-images.githubusercontent.com/43849911/221673787-77fb9780-32d3-4bbd-a835-9fe4298b076f.png">
+
+<img width="663" alt="Screenshot 2023-02-28 at 1 46 16 AM" src="https://user-images.githubusercontent.com/43849911/221673907-104e42ec-d45c-44e4-b502-032828d0849d.png">
+
+<img width="672" alt="Screenshot 2023-02-28 at 1 46 29 AM" src="https://user-images.githubusercontent.com/43849911/221674026-d0faa35a-1b80-4e68-b0bb-d71901997b1b.png">
+
+<img width="636" alt="Screenshot 2023-02-28 at 1 46 43 AM" src="https://user-images.githubusercontent.com/43849911/221674171-5b099938-3572-44ce-b74b-74a6725212a9.png">
+
+<img width="804" alt="Screenshot 2023-02-28 at 1 47 12 AM" src="https://user-images.githubusercontent.com/43849911/221674430-d610194d-78e3-440f-9848-9e247d86b982.png">
+
+<img width="768" alt="Screenshot 2023-02-28 at 1 47 52 AM" src="https://user-images.githubusercontent.com/43849911/221674785-5b880272-2207-451e-95c5-d2b7261c666d.png">
 
