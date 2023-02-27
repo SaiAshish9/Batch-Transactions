@@ -16,7 +16,20 @@ when we need to transfer huge amount of data from source to destination then we 
 
 Let's say everyday we need to generate a csv report(destination) by fetching data from the db (source). We can speed up this via spring batch.
 
+Key components of spring batch architecture : 
 
-Job Launcher is an interface used to launch spring batch jobs.
+Job Launcher is an interface used to launch spring batch jobs and its an entrypoint to initiate any job in spring batch.
+
+It has a run method to trigger job object immediately it calls Job repo which is used to maintain state of job whether its succeed or failed.
+
+State management is crucial when processing large amount of data this is done using spring batch job repository.
+
+Then job component will communicate with another component of spring batch called Step.
+
+Step is combination of ItemReader, ItemProcessor and ItemWriter.
+
+ItemReader reads the data from source (csv), ItemProcessor can be used to perform any operation in between reading and writing data and ItemWriter helps to write data to dest. (db).
 
 ```
+
+<img width="698" alt="Screenshot 2023-02-27 at 11 56 28 PM" src="https://user-images.githubusercontent.com/43849911/221651114-bf02a9a3-78e1-49fa-a034-de9cc6d9a31e.png">
