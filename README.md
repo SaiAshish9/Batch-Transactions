@@ -30,6 +30,9 @@ Step is combination of ItemReader, ItemProcessor and ItemWriter.
 
 ItemReader reads the data from source (csv), ItemProcessor can be used to perform any operation in between reading and writing data and ItemWriter helps to write data to dest. (db).
 
+A job can have multiple steps.
+
 ```
 
-<img width="698" alt="Screenshot 2023-02-27 at 11 56 28 PM" src="https://user-images.githubusercontent.com/43849911/221651114-bf02a9a3-78e1-49fa-a034-de9cc6d9a31e.png">
+<img width="712" alt="Screenshot 2023-02-27 at 11 57 49 PM" src="https://user-images.githubusercontent.com/43849911/221651342-f25a77d6-0abc-41d7-ac53-447295c89d3a.png">
+
