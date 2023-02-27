@@ -36,3 +36,4 @@ A job can have multiple steps.
 
 <img width="712" alt="Screenshot 2023-02-27 at 11 57 49 PM" src="https://user-images.githubusercontent.com/43849911/221651342-f25a77d6-0abc-41d7-ac53-447295c89d3a.png">
 
+<img width="1032" alt="Screenshot 2023-02-28 at 12 04 50 AM" src="https://user-images.githubusercontent.com/43849911/221652661-9283baeb-0b71-4531-a5f9-afce1b8c467c.png">
